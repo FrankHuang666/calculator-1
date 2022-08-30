@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/frankazure400/calculator2/_apis/build/status/FrankHuang666.calculator-1?branchName=master)](https://dev.azure.com/frankazure400/calculator2/_build/latest?definitionId=7&branchName=master)
